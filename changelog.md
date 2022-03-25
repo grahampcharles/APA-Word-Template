@@ -8,7 +8,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased] - yyyy-mm-dd
 
 ### Added
+
+### Changed
  
+### Fixed
+ 
+
+## [0.1.1] - 2022-03-25
+
+### Added
+    - added `Body Text` and `First Paragraph` styles, since Word seems to automatically use them and create them if you don't have them.
+    - #2 set default paragraph font 
+
 ### Changed
  
 ### Fixed
