@@ -5,10 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
-## [Unreleased] - yyyy-mm-dd
+## [0.2.0] - 2022-04-18
 
 ### Added
     - Added Body Flush style for text after Block Text
+    - Added First Paragraph style; synonym for Body Text
+    - Added Title style; synonym for Title Page Title.
 
 ### Changed
  
