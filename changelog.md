@@ -5,9 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [0.3.0] - Unreleased
+## [0.2.1] - 2022-04-19
 
 ### Added
+    - Added Compact paragraph style as a synonym for Table Text; this to support pandoc-generated files.
     - Added frame-based inline Heading 4 and Heading 5 styles.
 
 

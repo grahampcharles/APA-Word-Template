@@ -36,5 +36,10 @@ There are some packages (like Writage, that allows you to paste markdown; and pa
 
 | package | style issue |
 | - | - |
+| pandoc | Pandoc uses a paragraph style called `Compact` for table text; this has been created as a synonym for `Table Text`. You'll have to set the headers yourself. |
 | pandoc | If you have a `title` value in the file's frontmatter, it will be added to your final document with style `Title`, which has been created as a synonym to `Title Page Title`. If you're writing a manuscript with sections, however, you probably want this to be `Header 1`. (The best practice is probably not to use a `title` in your frontmatter; just include headings in the text.) |
 | pandoc, Writage | These packages create a `First Paragraph` style; in this template is is considered a synonym for `Body Text`. See the note above about block quotes, however. |
+
+## Tables
+
+APA 7 says that tables can have single, 1.5, or double spacing. The default in this template is 1.5.
