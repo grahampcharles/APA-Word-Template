@@ -16,6 +16,10 @@ Download the template into your User templates directory, or any convenient loca
 
 # Issues
 
+## Heading 4 and Heading 5
+
+These styles are inlined in APA. (Really, who invents this stuff?) Anyway, that means you'll have to use character styles for them, but you can also choose the template's `Heading 4` and `Heading 5` experimental styles which are -- not kidding -- embedded in frames. You'll have to make the first paragraph after these styles `Body Flush`.
+
 ## Widows and Orphans
 
 APA style does not have a problem with widows and orphans. That is, a heading can be the last line of a page, and a sentence can end in the first line of a new page. The justification for this is that these are presentation considerations, and APA is all about preparing an article to submit to a journal. The journal itself will handle all these little details for you.
